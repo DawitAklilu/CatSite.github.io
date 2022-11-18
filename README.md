@@ -1,5 +1,3 @@
-# CatSite.github.io
-<!DOCTYPE html>
 <html lang="en">
     <body>
         <main>
